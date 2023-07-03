@@ -22,7 +22,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
+- Create Virtial Machines in Azure
 - Step 2
 - Step 3
 - Step 4
