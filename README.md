@@ -40,10 +40,10 @@ Ensure that both VMs are in the same Vnet (you can check the topology with Netwo
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![image](https://github.com/Rizzledizzle4/configure-ad/assets/135624545/1d95f4df-0e0b-4b94-87c9-cce70ba4ab31)
+
+
+
 Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping).
 Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall.
 Check back at Client-1 to see the ping succeed.
